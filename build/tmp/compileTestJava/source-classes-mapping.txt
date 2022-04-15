@@ -1,2 +1,10 @@
-FirstSeleniumTest.java
- FirstSeleniumTest
+PageBase.java
+ PageBase
+TempMail.java
+ TempMail
+MainPage.java
+ MainPage
+SeleniumTest.java
+ SeleniumTest
+EventPage.java
+ EventPage
