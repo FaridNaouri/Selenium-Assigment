@@ -1,19 +1,6 @@
-# TITLE
-
-```
-    CODE_SNIP
-```
-
-TEXT text text TExT text text text TExT text text text TExT text
-
-- List List
-- List List: 
-    - List List
-    - List List
-
 # Selenium Assignment
 
-# Java Files
+# Test Files
 
 - EventPage.java
 - MainPage.java
