@@ -30,7 +30,7 @@ public class SeleniumTest {
 		
 		TempMail tempMail = new TempMail(this.driver);
 		String email = tempMail.getTempMail();
-		String pass = "qazxsw123";
+		String pass = "SQLA1Selenium1Assignment";
 		
 		MainPage mainPage = new MainPage(this.driver);
 		mainPage.openLogin();
